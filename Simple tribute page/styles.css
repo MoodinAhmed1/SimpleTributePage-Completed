@@ -9,21 +9,22 @@ body {
 
 main {
   max-width: 100%;
-  margin: 20px 10px;
-  background-color: rgb(200, 200, 200);
+  margin: 50px 10px 0;
+  background-color: rgb(235, 235, 235);
   padding: 15px
 }
 
 header > h1 {
   text-align: center;
-  margin: 20px auto 0;
-  font-size: 40px;
+  margin: 45px auto 0;
+  font-size: 60px;
 }
 
 header > p {
   text-align: center;
-  margin: 14px auto;
-  font-size: 14px;
+  margin: 40px auto 25px;
+  font-size: 22px;
+	font-weight: 300;
 }
 
 figure {
