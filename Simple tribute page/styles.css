@@ -46,3 +46,24 @@ figure > figcaption {
   margin-bottom: 20px;
 }
 
+
+#life-timeLine > h3{
+	text-align: center;
+	margin: 60px auto;
+	font-size: 35px;
+}
+
+#life-timeLine ul {
+	max-width: 800px;
+	margin: 0 auto;
+}
+
+#life-timeLine li {
+	margin: 25px 0;
+	font-size: 25px;
+	font-weight: 300;
+}
+
+
+
+
