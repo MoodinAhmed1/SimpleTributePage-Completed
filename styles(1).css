@@ -1,0 +1,83 @@
+* {
+  box-sizing: box-border;
+}
+
+body {
+  font-family: Poppins;
+  margin: 0;
+}
+
+main {
+  max-width: 100%;
+  margin: 50px 10px;
+  background-color: rgb(235, 235, 235);
+  padding: 15px
+}
+
+header > h1 {
+  text-align: center;
+  margin: 45px auto 0;
+  font-size: 60px;
+}
+
+header > p {
+  text-align: center;
+  margin: 40px auto 25px;
+  font-size: 22px;
+	font-weight: 300;
+}
+
+figure {
+  background-color: #ffffff; 
+  margin: 0 auto; 
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+figure > img {
+   max-width: 100%; 
+   height: auto;
+   padding: 20px;
+}
+
+figure > figcaption {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+
+#life-timeLine > h3{
+	text-align: center;
+	margin: 60px auto;
+	font-size: 35px;
+}
+
+#life-timeLine ul {
+	max-width: 800px;
+	margin: 0 auto;
+}
+
+#life-timeLine li {
+	margin: 25px 0;
+	font-size: 25px;
+	font-weight: 300;
+}
+
+#life-timeLine p {
+	max-width: 800px;
+	margin: 40px auto;
+	font-size: 20px;
+	font-weight: 300;
+}
+
+#life-timeLine .footer {
+	font-size: 25px;
+	font-weight: 600;
+} 
+#life-timeLine a {
+	font-size: 30px;
+}
+
+
+/*---i think i'm done---*/
